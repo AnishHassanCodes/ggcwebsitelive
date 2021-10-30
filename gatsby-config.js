@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix:"/ggcwebsitelive",
   flags: {
     DEV_SSR: false,
   },

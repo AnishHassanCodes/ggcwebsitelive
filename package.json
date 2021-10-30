@@ -41,6 +41,7 @@
   "devDependencies": {
     "@iconify/icons-mdi": "^1.1.29",
     "@iconify/react": "^3.0.1",
+    "gh-pages": "^3.2.3",
     "prettier": "2.2.1"
   },
   "keywords": [
@@ -48,6 +49,7 @@
   ],
   "license": "0BSD",
   "scripts": {
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
