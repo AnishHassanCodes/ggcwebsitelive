@@ -1,0 +1,69 @@
+[
+    {
+        "img" :  "../../images/skincare.jpg",
+        "alt" :  "Skin Care GGC",
+        "name" : "Skin Care",
+        "button" : "Shop Now",
+        "url" : "https://www.goldengirlcosmetics.com/",
+        "info" :  "Care for your Skin, care for your beauty. We offer wide range of products related to skin care for glowing complexion." 
+    },
+    {
+        "img" :  "../../images/haircare.jpg",
+        "alt" :  "Hair Care GGC",
+        "name" : "Hair Care",
+        "button" : "Shop Now",
+        "url" : "https://www.goldengirlcosmetics.com/",
+        "info" : "Happy hair, happy you. Make your hair fuller, thicker and shinier with Soft Touch hair care products."
+    },
+  
+    {
+        "img" :  "../../images/manipedi.jpg",
+        "alt" :  "Manicure&Pedicure GGC",
+        "name" : "Menicure & Pedicure",
+        "button" : "Shop Now",
+        "url" : "https://www.goldengirlcosmetics.com/collection/manicure-pedicure",
+        "info"  : "Take care of your hands & feet.With Golden Girl exclusive menicure and pedicure products." 
+    },
+    {
+        "img" :  "../../images/hand-sanitizer.png",
+        "alt" :  "Hand Sanitizer GGC",
+        "name" : "Hand Sanitizer",
+        "button" : "Shop Now",
+        "url" : "https://www.goldengirlcosmetics.com/collection/hand-sanitizer" ,
+        "info"  : "Keep your hands germ free and clean. Soft Touch offer quality hand sanitizer for this purpose." 
+    },
+        
+    {
+        "img" :  "../../images/bundleoffers.jpg",
+        "alt" :  "Bundle Offers GGC",
+        "name" : "Bundle Offers",
+        "button" : "Shop Now",
+        "url" : "https://www.goldengirlcosmetics.com/collection/bundle-offers",
+        "info" : "We provide various kind of bundle offers related to daily personal care products. You can the pakage all along at lower price as comaperd to indiviual product."
+     },
+    {
+        "img" :  "../../images/promotions.jpg",
+        "alt" :  "Promotions GGC",
+        "name" : "Promotions",
+        "button" : "Shop Now",
+        "url" : "https://www.goldengirlcosmetics.com/collection/promo",
+        "info" : "These include offers like Buy one Get one or a Package with free promotional products.    "  
+    },
+    {
+        "img" :  "../../images/baby.jpg",
+        "alt" :  "Baby Care GGC",
+        "name" : "Baby Care",
+        "button" : "Shop Now",
+        "url" : "https://www.goldengirlcosmetics.com/collection/baby-products",
+        "info"  : "Provide your baby with daily skincare. We have all the essential products you need to nourish your baby’s skin."  
+    },
+    {
+        "img" :  "../../images/accessories.jpg",
+        "alt" :  "Accessories GGC",
+        "name" : "Accessories",
+        "button" : "Shop Now",
+        "url" : "https://www.goldengirlcosmetics.com/collection/accessories",
+        "info" : "We sell various type of salon accessories and equipment of quality brands in reasonable prices."   
+    }
+
+]
